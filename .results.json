@@ -5,9 +5,9 @@
     "passes": 6,
     "pending": 0,
     "failures": 0,
-    "start": "2025-06-04T12:43:13.095Z",
-    "end": "2025-06-04T12:43:13.515Z",
-    "duration": 420
+    "start": "2025-06-04T12:52:27.651Z",
+    "end": "2025-06-04T12:52:28.065Z",
+    "duration": 414
   },
   "tests": [
     {
@@ -27,21 +27,21 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
@@ -73,21 +73,21 @@
     {
       "title": "is declared as equal to Chelsea",
       "fullTitle": "index.js mostProfitableNeighborhood is declared as equal to Chelsea",
-      "duration": 1,
+      "duration": 0,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is defined using let",
       "fullTitle": "index.js mostProfitableNeighborhood is defined using let",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
     {
       "title": "is declared as equal to Susan Smith",
       "fullTitle": "index.js companyCeo is declared as equal to Susan Smith",
-      "duration": 0,
+      "duration": 1,
       "currentRetry": 0,
       "err": {}
     },
